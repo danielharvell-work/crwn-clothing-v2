@@ -1,7 +1,4 @@
 {
-    "explorer.compactFolders": false,
-    "cSpell.words": [
-        "Crwn",
-        "Firestore"
-    ]
+  "explorer.compactFolders": false,
+  "cSpell.words": ["Crwn", "Firestore"]
 }
